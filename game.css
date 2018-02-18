@@ -1,0 +1,23 @@
+body {
+    background-image: url(./images/hangman3.jpg);
+    font-size: 40px , #dddddd;
+
+}
+.game {
+    padding: 80px;
+    margin: 200px;
+    border: solid 2px #dddddd;
+    font-size: 30px;
+    height: 400px;
+    width: 600px;
+    color: #dddddd;
+    text-align: center;
+    font-family: 'Fontdiner Swanky', cursive;
+}
+.red {
+    color: red;
+    font-weight: 600;
+    font-family: 'Fontdiner Swanky', cursive;
+    
+}
+ 
